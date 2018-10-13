@@ -1,7 +1,7 @@
 # DCForcast Project
 Created by: Duvelis Carao
 
-# Tech:
+# Stack:
 	- Java 8
 	- maven
 	- Spring Boot
@@ -12,7 +12,7 @@ Created by: Duvelis Carao
 		mvn spring-boot:run
 	
 		then access to the default URL:
-		http://localhost:8080/data/berlin
+		Example: http://localhost:8080/data/berlin
 		
 	- To run the unit testing, use the maven command
 		mvn test
